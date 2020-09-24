@@ -1,2 +1,0 @@
-# rsiregar.github.io
-website
