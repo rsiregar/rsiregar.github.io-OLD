@@ -51,7 +51,8 @@
       <link>https://rsiregar.github.io/working-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rsiregar.github.io/working-papers/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;World Price shocks, Trade Policy Shocks, and Internal Migration: Evidence from Indonesia&amp;rdquo;
+      <description>&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;World Price shocks, Trade Policy Shocks, and Internal Migration: Evidence from Indonesia&amp;rdquo;
 authors:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;admin
@@ -101,16 +102,15 @@ preview_only: false&lt;/p&gt;
 &lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
 &lt;h1 id=&#34;eg-internal-project-references-contentprojectinternal-projectindexmd&#34;&gt;E.g. &lt;code&gt;internal-project&lt;/code&gt; references &lt;code&gt;content/project/internal-project/index.md&lt;/code&gt;.&lt;/h1&gt;
 &lt;h1 id=&#34;otherwise-set-projects-&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;internal-project&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;projects:[]&lt;/p&gt;
 &lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
 &lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
 &lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
 &lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
 &lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;slides: example&lt;/p&gt;
+&lt;p&gt;slides: &amp;quot;&amp;quot;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
 &lt;p&gt;title: &amp;ldquo;Understanding the Global Trade and Public Health Regime Complex: A Case Study on Breastfeeding and Commercial Breastmilk Substitutes&amp;rdquo;
 authors:&lt;/p&gt;
 &lt;ul&gt;
@@ -162,16 +162,13 @@ preview_only: false&lt;/p&gt;
 &lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension-1&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
 &lt;h1 id=&#34;eg-internal-project-references-contentprojectinternal-projectindexmd-1&#34;&gt;E.g. &lt;code&gt;internal-project&lt;/code&gt; references &lt;code&gt;content/project/internal-project/index.md&lt;/code&gt;.&lt;/h1&gt;
 &lt;h1 id=&#34;otherwise-set-projects--1&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;internal-project&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;projects:[]&lt;/p&gt;
 &lt;h1 id=&#34;slides-optional-1&#34;&gt;Slides (optional).&lt;/h1&gt;
 &lt;h1 id=&#34;associate-this-publication-with-markdown-slides-1&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
 &lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension-1&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
 &lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd-1&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
 &lt;h1 id=&#34;otherwise-set-slides--1&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;slides: example&lt;/p&gt;
+&lt;p&gt;slides: &amp;quot;&amp;quot;&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -188,7 +185,19 @@ preview_only: false&lt;/p&gt;
       <link>https://rsiregar.github.io/wip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rsiregar.github.io/wip/</guid>
-      <description></description>
+      <description>&lt;p&gt;Trade, FDI, and Smoking Prevalence
+author:
+-admin&lt;/p&gt;
+&lt;p&gt;Virtual Migration: Online Labor Markets and Spatial Labor Misallocation
+author:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Bazzi&lt;/li&gt;
+&lt;li&gt;Bo Cowgill&lt;/li&gt;
+&lt;li&gt;Zo ̈e Cullen&lt;/li&gt;
+&lt;li&gt;admin
+=======&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
