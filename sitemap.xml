@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>https://rsiregar.github.io/articles/</loc>
-  </url>
-  
-  <url>
     <loc>https://rsiregar.github.io/authors/</loc>
   </url>
   
@@ -23,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://rsiregar.github.io/post/</loc>
+  </url>
+  
+  <url>
     <loc>https://rsiregar.github.io/publication_types/</loc>
   </url>
   
@@ -32,10 +32,6 @@
   
   <url>
     <loc>https://rsiregar.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rsiregar.github.io/teaching/</loc>
   </url>
   
   <url>
