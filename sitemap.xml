@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rsiregar.github.io/</loc>
+    <loc>https://rsiregar.github.io/post/articles/</loc>
   </url>
   
   <url>
@@ -24,6 +24,10 @@
   
   <url>
     <loc>https://rsiregar.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rsiregar.github.io/</loc>
   </url>
   
   <url>
