@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rsiregar.github.io/post/articles/</loc>
+    <loc>https://rsiregar.github.io/publication-type/3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rsiregar.github.io/articles/</loc>
   </url>
   
   <url>
@@ -19,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://rsiregar.github.io/post/</loc>
+    <loc>https://rsiregar.github.io/working-papers/jmp/</loc>
   </url>
   
   <url>
@@ -27,11 +31,15 @@
   </url>
   
   <url>
+    <loc>https://rsiregar.github.io/author/rizki-nauli-siregar/</loc>
+  </url>
+  
+  <url>
     <loc>https://rsiregar.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://rsiregar.github.io/author/rizki-nauli-siregar/</loc>
+    <loc>https://rsiregar.github.io/tag/source-themes/</loc>
   </url>
   
   <url>
